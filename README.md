@@ -1,4 +1,4 @@
-# 🛡️ Pedro Ataídes - Portfólio Profissional
+# Pedro Ataídes - Portfólio Profissional
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para centralizar minha trajetória, competências técnicas, certificações e projetos práticos nas áreas de **Tecnologia e Segurança da Informação**.
 
@@ -15,7 +15,7 @@ Durante a concepção, arquitetura e refatoração deste projeto, utilizei o **C
 
 ---
 
-## 🚀 Funcionalidades do Website
+## Funcionalidades do Website
 
 - **Design Responsivo:** Adaptado para visualização fluida em dispositivos móveis, tablets e desktops.
 - **Vitrine de Projetos:** Detalhamento técnico de laboratórios, scripts e pesquisas em cibersegurança.
@@ -24,7 +24,7 @@ Durante a concepção, arquitetura e refatoração deste projeto, utilizei o **C
 
 ---
 
-## 📬 Contato
+## Contato
 
 Fique à vontade para entrar em contato para oportunidades, colaborações ou troca de conhecimento sobre Segurança da Informação!
 
